@@ -15,3 +15,5 @@ An API (Application Programming Interface) is a software intermediary that allow
 ### What is a Graphic API?
 
 A graphic API is a collection of documented libraries and commands that communicate with the computer hardware in creating 2D and 3D applications.
+
+> **Example:** Direct3D is a graphic API for Microsoft Windows.
